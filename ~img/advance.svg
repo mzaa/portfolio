@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 420 420" enable-background="new 0 0 420 420" xml:space="preserve">
+<symbol  id="Advance" viewBox="-210 -210 420 420">
+	<polygon fill="#FFFFFF" points="210,-210 -210,-210 -210,210 210,210 	"/>
+	<g>
+		<polygon opacity="0.25" fill="#00AEEF" points="91.9,-91.9 -91.9,-91.9 -91.9,91.9 91.9,91.9 		"/>
+		<g>
+			<text transform="matrix(1 0 0 -1 -44.2734 -42.2744)" fill="#FFFFFF" font-family="'TrajanPro-Regular'" font-size="118.851">V</text>
+			<g>
+				<polygon fill="#FFFFFF" points="-33.2,83.6 -30.6,71.9 -18,72.5 -28.5,66.5 -23.8,54.7 -33.2,61.8 -42.5,54.7 -38.1,66.6 
+					-48.3,72.5 -35.7,72 				"/>
+				<polygon fill="#FFFFFF" points="0,83.6 2.6,71.9 15.2,72.5 4.7,66.5 9.4,54.7 0,61.8 -9.4,54.7 -5,66.6 -15.2,72.5 -2.6,72 				
+					"/>
+				<polygon fill="#FFFFFF" points="33.2,83.6 35.7,71.9 48.3,72.5 37.8,66.5 42.5,54.7 33.2,61.8 23.8,54.7 28.2,66.6 18,72.5 
+					30.6,72 				"/>
+			</g>
+			<text transform="matrix(1 0 0 -1 -58.5723 -79.3711)" fill="#FFFFFF" font-family="'Avenir-Book'" font-size="25.6109">ADVANCE</text>
+		</g>
+	</g>
+	<text transform="matrix(1 0 0 -1 -134.8232 -123.0425)" fill="#D91D4F" font-family="'BebasNeue'" font-size="40.5">UNDER CONSTRUCTION</text>
+</symbol>
+<g id="Layer_1">
+	
+		<use xlink:href="#Advance"  width="420" height="420" x="-210" y="-210" transform="matrix(1 0 0 -1 210.0028 210.0028)" overflow="visible"/>
+</g>
+<g id="Layer_2">
+</g>
+</svg>

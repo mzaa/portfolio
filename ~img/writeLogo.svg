@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 420 420" enable-background="new 0 0 420 420" xml:space="preserve">
+<symbol  id="TWLOHA" viewBox="-210 -210 420 420">
+	<polygon fill="#FFFFFF" points="210,-210 -210,-210 -210,210 210,210 	"/>
+	<polygon fill="#42B1E5" points="89,-85.9 -87.3,-85.9 -87.3,140.8 89,140.8 	"/>
+	<g>
+		<polygon fill="#FFFFFF" points="1.6,108.3 6.2,90.8 23.2,92.6 7.7,84.2 15,67.3 1.6,80.6 -11.7,67.3 -3.3,84.2 -19.9,92.6 
+			-1.8,90.8 		"/>
+		<text transform="matrix(1 0 0 -1 -88.6211 -131.9331)" font-family="'DIN-Black'" font-size="44.0506">TWLOHA</text>
+	</g>
+	<path fill="#FFFFFF" d="M-49.2-8.7c-25.6-0.4-40-22.6-21.8-41.6s33.2-9.8,41.2-3.5c1.2-7.9,25.1-20.1,41.2,0
+		c8.9-12.7,27.9-12.4,40.4,0C66-56.5,81.5-42.3,70.8-37.1C92.1-36.2,82.6-7.1,56.3-8.4C66.6,8.2,45.4,23.2,30.8,15.5
+		c-27.9,19-44.1,15.8-57-1.2C-42.8,20-65,7-49.2-8.7z"/>
+</symbol>
+<g id="Layer_1">
+	
+		<use xlink:href="#TWLOHA"  width="420" height="420" x="-210" y="-210" transform="matrix(1 0 0 -1 210.0028 210.0028)" overflow="visible"/>
+</g>
+<g id="Layer_2">
+</g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 420 420" enable-background="new 0 0 420 420" xml:space="preserve">
+<symbol  id="Collective" viewBox="-210 -210 420 420">
+	<polygon fill="#FFFFFF" points="210,-210 -210,-210 -210,210 210,210 	"/>
+	<g opacity="0.25">
+		<text transform="matrix(1 0 0 -1 -159.2529 -9.1113)" font-family="'DINBold'" font-size="49.3736" letter-spacing="3">COLLECTIVE</text>
+		<text transform="matrix(1 0 0 -1 -40.8096 -29.2441)" font-family="'DIN'" font-size="17.2808">BURGERS</text>
+	</g>
+	<text transform="matrix(1 0 0 -1 -133.3223 -115.2686)" fill="#D91D4F" font-family="'BebasNeue'" font-size="40.5">UNDER CONSTRUCTION</text>
+</symbol>
+<g id="Layer_1">
+	
+		<use xlink:href="#Collective"  width="420" height="420" x="-210" y="-210" transform="matrix(1 0 0 -1 210.0028 210.0028)" overflow="visible"/>
+</g>
+<g id="Layer_2">
+</g>
+</svg>
